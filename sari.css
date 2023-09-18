@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(237, 245, 247);
+  }
+  
+  header {
+    text-align: center;
+    color:rgb(113, 144, 247) 
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: rgb(0, 135, 253);
+  }
+  
+  main {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  p {
+    text-align: justify;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    padding: 10px;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
